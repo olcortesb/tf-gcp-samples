@@ -37,3 +37,6 @@ override.tf.json
 terraform.rc
 cloud-functions/terraform.tfstate.backup
 cloud-functions/terraform.tfstate
+cloud-run/terraform.tfstate
+cloud-run/terraform.tfstate.backup
+cloud-run/.terraform.lock.hcl
